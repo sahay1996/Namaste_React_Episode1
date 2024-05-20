@@ -1,0 +1,10 @@
+What is React?
+React is a JS Library.
+Why React is known as React?
+React is known as React because library was designed to allow developers to React as it reacts to changes in state and data within an application and to add UI in an efficient and declarative manner.
+What is Library??
+Library is a collections of prewritten code snippets that can be used and reused to perform certain tasks.A particular JavaScript library code can be plugged into application code which leads to faster development and fewer vulnerabilities to have errors.
+Exp:React
+What is Framework?
+Framework provides a basic foundation or a structre for a website or an application.
+Exp: Angular

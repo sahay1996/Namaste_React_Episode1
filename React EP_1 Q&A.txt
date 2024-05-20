@@ -1,0 +1,18 @@
+What is Emmet?
+Emmet is type of declaration in HTML5 which provides the boilerplate.
+Difference between a Library and Framework?
+Library is a set of prewritten code snippets which can be resued and used for smaller apps or for large scale apps.
+A framework is like a structure that provides a base for the application development process.
+What is CDN? Why do we use it?
+CDN is known as Content Delivery Network, which are types of remote servers which increases the response time for the users.
+CDN was desinged to speed up the loading static html.To use a CDN, you can either use a website building platform with a built-in CDN or purchase one from a CDN vendor.
+Why is React known as React?
+React is known as react because it renders the page without reloading the whole page.
+What is crossorigin in script tag?
+The crossorigin attribute in an HTML <script> tag controls how the browser uses resources from a different domain.
+What is diference between React and ReactDOM
+React is like the architect who designs the things should look and ReactDOM is the construction worker who puts the design into actions on a website.
+What is difference between react.development.js and react.production.js files via CDN?
+React.development.js and react.production.js are two different versions of the React JavaScript library. The development version is intended for use during the development process, while the production version is intended for use in deployed applications.
+What is async and defer? - see my Youtube video??
+Async and defer are the attribute used with script tags
